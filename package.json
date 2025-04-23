@@ -1,0 +1,25 @@
+{
+  "name": "11ty-edge",
+  "description": "",
+  "type": "module",
+  "version": "3.0.0",
+  "license": "MIT",
+  "main": "./EdgePlugin.js",
+  "peerDependencies": {
+    "@11ty/eleventy": "*"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "author": {
+    "name": "Zach Leatherman",
+    "email": "zachleatherman@gmail.com",
+    "url": "https://zachleat.com/"
+  },
+  "contributors": [
+    {
+      "name": "Roman Edirisinghe",
+      "email": "rediris@users.noreply.github.com"
+    }
+  ]
+}
